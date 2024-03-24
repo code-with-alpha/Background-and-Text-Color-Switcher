@@ -13,7 +13,7 @@ _**Color Flipper**_ is a simple single-page application (SPA) built using React.
 To run this application locally, follow these steps:
 1. Clone this repository to your local machine.
 ```bash
-https://github.com/code-with-alpha/Color_Flipper.git
+git clone https://github.com/code-with-alpha/Color_Flipper.git
 ```
 2. Navigate to the project directory in your terminal.
 ```bash
